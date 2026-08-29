@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,50:7303c0,100:00fff9&height=160&section=header&text=GOKULKUMAR.exe&fontSize=48&fontColor=00fff9&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=17&descColor=ff2e97" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,50:7303c0,100:00fff9&height=120&section=header&text=GOKULKUMAR.exe&fontSize=48&fontColor=00fff9&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=17&descColor=ff2e97" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+booting+gokulkumar_os+...;%3E+loading+modules%3A+AWS%2C+MQTT%2C+React%2C+Node;%3E+status%3A+3%2B+years+in+production;%3E+access+granted.+welcome." alt="terminal typing" />
 
