@@ -23,60 +23,48 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:7303c0&height=55&section=header&text=INVENTORY%20%2F%2F%20TECH%20STACK&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
 <div align="center">
-<br/>
+
+## 🧬 INVENTORY // TECH STACK
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,java,spring,rust,postgres,mysql,mongodb,aws,docker,githubactions,git,bash&theme=dark&perline=9" />
 
 <sub>⚡ = MQTT · Twilio · REST APIs · CI/CD Pipelines</sub>
 
-<br/><br/>
-
-<img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:7303c0&height=55&section=header&text=CHARACTER%20STATS&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+---
+
+### 📡 CHARACTER STATS
 
 <div align="center">
-<br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=ff2e97&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=ff2e97&text_color=c9d1d9&ring_color=39FF14"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=donut&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9d1d9&langs_count=8"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=GokulDG&hide_border=true&background=0D0221&ring=FF2E97&fire=39FF14&currStreakLabel=00FFF9&sideLabels=00FFF9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D0221"/>
 
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulDG&bg_color=0d0221&color=00fff9&line=ff2e97&point=39FF14&area=true&hide_border=true" width="90%"/>
-
-<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=GokulDG&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00fff9&height=55&section=header&text=LIVE%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=0d0221&animation=fadeIn&fontAlignY=65" width="100%"/>
+### 🐍 LIVE CONTRIBUTION SNAKE
 
 <div align="center">
-<br/>
 <img src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9d00,100:ff2e97&height=55&section=header&text=WORLD%20MAP%20-%20FEATURED%20BUILDS&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-<br/>
+### 🗺️ WORLD MAP — FEATURED BUILDS
 
 <table>
 <tr>
@@ -117,12 +105,11 @@ Automated telemetry system — continuous ingestion, SQL reporting, four-stage a
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd200,100:ff2e97&height=55&section=header&text=BOSS%20BATTLES%20CLEARED&fontSize=22&fontColor=0d0221&animation=fadeIn&fontAlignY=65" width="100%"/>
+### 🏆 BOSS BATTLES CLEARED
 
 <div align="center">
-<br/>
 
 | | Achievement | Arena |
 |:---:|---|---|
@@ -131,12 +118,11 @@ Automated telemetry system — continuous ingestion, SQL reporting, four-stage a
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,100:39FF14&height=55&section=header&text=CLASS%20%26%20TRAINING&fontSize=22&fontColor=0d0221&animation=fadeIn&fontAlignY=65" width="100%"/>
+### 🎓 CLASS &amp; TRAINING
 
 <div align="center">
-<br/>
 
 | Degree | Institution | Timeline |
 |---|---|---|
@@ -151,13 +137,11 @@ currently_leveling_up:
   - AWS                  ->  Serverless and Advanced IIoT Architectures
 ```
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,50:ff2e97,100:00fff9&height=55&section=header&text=OPEN%20A%20CHANNEL&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-<br/>
+### 📡 OPEN A CHANNEL
 
 [![Email](https://img.shields.io/badge/Email-gokulkumarpy%40gmail.com-00fff9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:gokulkumarpy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kgokulkumar-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://linkedin.com/in/kgokulkumar/)
