@@ -13,12 +13,12 @@
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────────────────┐
 │  root@gokulkumar:~$ whoami                                    │
-│  > Full Stack Engineer, 3+ yrs — manufacturing & education     │
-│  > Building real-time monitoring, workflow engines, cloud IIoT │
-│  > github.com/GokulDG · linkedin.com/in/kgokulkumar             │
-└──────────────────────────────────────────────────────────────┘
+│  > Full Stack Engineer, 3+ yrs — manufacturing &amp; education│
+│  > Building real-time monitoring, workflow engines, cloud IIoT│
+│  > github.com/GokulDG · linkedin.com/in/kgokulkumar           │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -37,40 +37,30 @@
 
 ---
 
-### ⚔️ QUEST LOG — WORK EXPERIENCE
+### 📡 CHARACTER STATS
 
-<table>
-<tr><td width="100%">
+<div align="center">
 
-**🟢 ACTIVE QUEST — FullStack Developer**
-`Regere Consulting Pvt. Ltd.` · Chennai, India · `06/2024 → present`
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=ff2e97&text_color=c9d1d9&ring_color=39FF14"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=donut&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9d1d9&langs_count=8"/>
 
-> `[React]` `[Node.js]` `[Backend Logic]` `[State Mgmt]`
+<br/>
 
-```diff
-+ Architected a multi-level escalation engine → cut manual follow-ups 80%, SLA adherence +40%
-+ Built enterprise workflow automation for ticketing platforms (React + Node.js)
-+ Shipped a drag-and-drop ticketing system w/ linked-list workflow handling → +60% efficiency
-+ Optimized rendering + lazy loading + API calls → faster frontend & backend
-```
+<img src="https://streak-stats.demolab.com?user=GokulDG&hide_border=true&background=0D0221&ring=FF2E97&fire=39FF14&currStreakLabel=00FFF9&sideLabels=00FFF9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D0221"/>
 
-</td></tr>
-<tr><td width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulDG&bg_color=0d0221&color=00fff9&line=ff2e97&point=39FF14&area=true&hide_border=true" width="90%"/>
 
-**✅ QUEST COMPLETE — Cloud & Backend Engineer**
-`Client Project · RFAM System` — Founding & Core Member · Mining Ops, Africa (Cloud IIoT)
+<img src="https://github-profile-trophy.vercel.app/?username=GokulDG&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
-> `[AWS]` `[MQTT/TLS]` `[Modbus]` `[Twilio]`
+</div>
 
-```diff
-+ Architected a cloud-native IIoT platform on AWS across 20+ remote sites → 3x scalability
-+ Real-time ingestion via MQTT over TLS + Modbus → 120+ signals, sub-second latency
-+ Alarm orchestration + Twilio escalation → incident response time -50%
-+ Infra optimization → operational cost -35%, uptime 99.5%+
-```
+---
 
-</td></tr>
-</table>
+### 🐍 LIVE CONTRIBUTION SNAKE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
 
 ---
 
@@ -80,7 +70,7 @@
 <tr>
 <td width="33%" valign="top">
 
-**🏰 Enterprise I&R Orchestrator**
+**🏰 Enterprise I&amp;R Orchestrator**
 <sub>Workspace Management System</sub>
 
 `React` `Node.js` `PostgreSQL` `AWS`
@@ -97,7 +87,7 @@ Multi-department platform — spatial workspace map, incident automation, financ
 
 `React` `Next.js` `Tailwind`
 
-Responsive portal for a construction manager showcasing multi-family, affordable & commercial housing projects.
+Responsive portal for a construction manager showcasing multi-family, affordable &amp; commercial housing projects.
 
 🔗 [sd-builders.web.app](https://sd-builders.web.app/)
 
@@ -130,34 +120,7 @@ Automated telemetry system — continuous ingestion, SQL reporting, four-stage a
 
 ---
 
-### 📡 CHARACTER STATS
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=ff2e97&text_color=c9d1d9&ring_color=39FF14"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9d1d9&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=GokulDG&hide_border=true&background=0D0221&ring=FF2E97&fire=39FF14&currStreakLabel=00FFF9&sideLabels=00FFF9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D0221"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulDG&bg_color=0d0221&color=00fff9&line=ff2e97&point=39FF14&area=true&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GokulDG&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-### 🐍 LIVE CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> ⚠️ This snake is a **real animated GitHub Action** — it eats your commit graph every day. It needs a one-time setup in your repo. Instructions + the workflow file are provided separately.
-
----
-
-### 🎓 CLASS & TRAINING
+### 🎓 CLASS &amp; TRAINING
 
 <div align="center">
 
@@ -169,9 +132,9 @@ Automated telemetry system — continuous ingestion, SQL reporting, four-stage a
 
 ```yaml
 currently_leveling_up:
-  - Distributed Systems  →  Consensus, Event Sourcing, CQRS
-  - Rust                 →  Backend Services, Systems Programming
-  - AWS                  →  Serverless & Advanced IIoT Architectures
+  - Distributed Systems  ->  Consensus, Event Sourcing, CQRS
+  - Rust                 ->  Backend Services, Systems Programming
+  - AWS                  ->  Serverless and Advanced IIoT Architectures
 ```
 
 ---
