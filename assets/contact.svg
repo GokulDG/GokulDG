@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 290" width="880" height="290" role="img">
+<defs>
+<clipPath id="card"><rect width="880" height="290" rx="14"/></clipPath>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .9 0"/></filter>
+
+</defs>
+<style>
+.d{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}.s{font-family:'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif;font-style:italic}
+.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;letter-spacing:.14em}
+.ink{fill:#ece9df}.ink2{fill:#a9a79c}.ink3{fill:#6f6e66}.lime{fill:#c6ff3d}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes ring{0%{transform:scale(1);opacity:.9}70%,100%{transform:scale(3.4);opacity:0}}
+
+.mq{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:800;font-size:88px;fill:none;stroke:#ece9df;stroke-opacity:.55;stroke-width:1.2;animation:mq 22s linear infinite}
+@keyframes mq{to{transform:translateX(-1560px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="880" height="290" fill="#0b0c0a"/>
+<line x1="220.0" y1="0" x2="220.0" y2="290" stroke="rgba(236,233,223,0.05)"/><line x1="440.0" y1="0" x2="440.0" y2="290" stroke="rgba(236,233,223,0.05)"/><line x1="660.0" y1="0" x2="660.0" y2="290" stroke="rgba(236,233,223,0.05)"/>
+
+<text x="32" y="44" class="m"><tspan class="lime">05</tspan><tspan class="ink3"> — </tspan><tspan class="ink2">CONTACT</tspan></text><text x="848" y="44" text-anchor="end" class="m ink3">GOKULKUMARPY@GMAIL.COM</text>
+<line x1="0" y1="78" x2="880" y2="78" stroke="rgba(236,233,223,0.14)"/>
+<g class="mq"><text x="0" y="164" textLength="1450" lengthAdjust="spacingAndGlyphs">LET’S BUILD SOMETHING USEFUL</text><circle cx="1505" cy="134" r="11" fill="#c6ff3d" stroke="none"/><text x="1560" y="164" textLength="1450" lengthAdjust="spacingAndGlyphs">LET’S BUILD SOMETHING USEFUL</text><circle cx="3065" cy="134" r="11" fill="#c6ff3d" stroke="none"/><text x="3120" y="164" textLength="1450" lengthAdjust="spacingAndGlyphs">LET’S BUILD SOMETHING USEFUL</text><circle cx="4625" cy="134" r="11" fill="#c6ff3d" stroke="none"/></g>
+<line x1="0" y1="196" x2="880" y2="196" stroke="rgba(236,233,223,0.14)"/>
+<text class="s ink" font-size="22">
+<tspan x="32" y="236">I'm always interested in building useful products, solving engineering</tspan>
+<tspan x="32" y="264">challenges, and working with <tspan class="lime">people who care about quality.</tspan></tspan></text>
+
+<rect width="880" height="290" filter="url(#grain)" opacity=".07"/>
+</g>
+<rect x=".5" y=".5" width="879" height="289" rx="14" fill="none" stroke="rgba(236,233,223,0.14)"/>
+</svg>

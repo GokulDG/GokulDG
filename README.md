@@ -1,137 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,50:7303c0,100:00fff9&height=200&section=header&text=GokulOS&fontSize=60&fontColor=00fff9&animation=fadeIn&fontAlignY=35&desc=v3.2.0%20%C2%B7%20now%20booting&descAlignY=58&descSize=17&descColor=ff2e97" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Gokulkumar K — Full-Stack & Backend Engineer, Pondicherry, India. Backend engineering, product thinking, and software that holds up at three in the morning. Open to backend and full-stack roles." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+booting+gokulkumar_os+...;%3E+loading+modules%3A+AWS%2C+MQTT%2C+React%2C+Node;%3E+status%3A+3%2B+years+in+production;%3E+access+granted.+welcome." alt="terminal typing" />
+<br/><br/>
 
-![](https://img.shields.io/badge/●-RUNNING-39FF14?style=flat-square&labelColor=0d0221)
-![](https://img.shields.io/badge/HOST-Pondicherry%2C_India-ff2e97?style=flat-square&labelColor=0d0221)
-![](https://img.shields.io/badge/KERNEL-SDE_%7C_Cloud_%26_Backend-00fff9?style=flat-square&labelColor=0d0221)
+<img src="./assets/signal.svg" width="100%" alt="What I build: operational software, from a sensor in the field to a person's phone. Field (Modbus), Ingest (MQTT over TLS), Cloud (AWS), Decide (rules), Notify (Twilio), Record (historian)." />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="./assets/toolkit.svg" width="100%" alt="Toolkit. Backend: Node.js, JavaScript, REST APIs, Python, Flask, Java, Spring Boot. Frontend: React, Next.js, TypeScript, Tailwind CSS. Data: PostgreSQL, MySQL, MongoDB, query optimisation. Infrastructure: AWS, MQTT, Twilio, Docker, Terraform, Linux and shell, GitHub Actions." />
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│  gokulkumar@GokulOS:~$ neofetch                                │
-│                                                                │
-│  OS ......... Gokulkumar v3.2.0 (Full-Stack Edition)           │
-│  Uptime ...... 3+ years — manufacturing &amp; education sectors│
-│  Kernel ...... real-time monitoring / workflow automation      │
-│  Shell ....... cloud-native / event-driven / IIoT              │
-│  Contact ..... github.com/GokulDG · linkedin.com/in/kgokulkumar│
-└────────────────────────────────────────────────────────────────┘
-```
+<br/><br/>
 
-<br/>
+<img src="./assets/telemetry.svg" width="100%" alt="Telemetry, live from GitHub. If I can't observe it in production, it isn't finished." />
 
-<div align="center">
+<br/><br/>
 
-## 🧬 ~/packages/installed.list
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b0c0a&text_color=ece9df&icon_color=c6ff3d&ring_color=c6ff3d&border_color=262722&border_radius=14" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&langs_count=8&bg_color=0b0c0a&title_color=c6ff3d&text_color=ece9df&border_color=262722&border_radius=14" alt="Most used languages" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,java,spring,rust,postgres,mysql,mongodb,aws,docker,githubactions,git,bash&theme=dark&perline=9" />
+<img src="https://streak-stats.demolab.com?user=GokulDG&background=0B0C0A&border=262722&ring=C6FF3D&fire=C6FF3D&currStreakLabel=C6FF3D&sideLabels=A9A79C&dates=6F6E66&currStreakNum=ECE9DF&sideNums=ECE9DF&stroke=262722&border_radius=14" alt="Contribution streak" />
 
-<sub>+ MQTT · Twilio · REST APIs · CI/CD Pipelines — <i>installed via gokul-pkg</i></sub>
+<img width="100%" src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/snake-lime.svg" alt="Contribution grid snake" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="./assets/contact.svg" width="100%" alt="Contact. Let's build something useful. I'm always interested in building useful products, solving engineering challenges, and working with people who care about quality." />
 
----
-### 📡 ~/system/diagnostics
+<br/><br/>
 
-<div align="center">
+<a href="mailto:gokulkumarpy@gmail.com"><img src="./assets/btn-email.svg" width="200" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kgokulkumar/"><img src="./assets/btn-linkedin.svg" width="200" alt="LinkedIn" /></a>
+<a href="https://github.com/GokulDG"><img src="./assets/btn-github.svg" width="200" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/gokulkumarpy/"><img src="./assets/btn-leetcode.svg" width="200" alt="LeetCode" /></a>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=ff2e97&text_color=c9d1d9&ring_color=39FF14"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=donut&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9d1d9&langs_count=8"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GokulDG&hide_border=true&background=0D0221&ring=FF2E97&fire=39FF14&currStreakLabel=00FFF9&sideLabels=00FFF9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D0221"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulDG&bg_color=0d0221&color=00fff9&line=ff2e97&point=39FF14&area=true&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GokulDG&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-### 🐍 LIVE CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-### 🗺️ ~/builds/compiled
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🏰 Enterprise I&amp;R Orchestrator**
-<sub>Workspace Management System</sub>
-
-`React` `Node.js` `PostgreSQL` `AWS`
-
-Multi-department platform — spatial workspace map, incident automation, finance ledger, CRM pipeline — one roof.
-
-🔗 [cove.thakali.garden](https://cove.thakali.garden/)
-
-</td>
-<td width="33%" valign="top">
-
-**🏗️ SD Builders**
-<sub>Commercial Real Estate Portal</sub>
-
-`React` `Next.js` `Tailwind`
-
-Responsive portal for a construction manager showcasing multi-family, affordable &amp; commercial housing projects.
-
-🔗 [sd-builders.web.app](https://sd-builders.web.app/)
-
-</td>
-<td width="33%" valign="top">
-
-**🌾 Tank Sentinel**
-<sub>Fertilizer Tank Monitoring</sub>
-
-`Python` `MQTT` `SQL`
-
-Automated telemetry system — continuous ingestion, SQL reporting, four-stage alarm triggers.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 ~/var/log/achievements.log
-
-<div align="center">
-
-| | Achievement | Arena |
-|:---:|---|---|
-| 🥇 | **Clash of Code — Winner** | Puducherry Technological University |
-| 🥈 | **Robo Soccer — Runner-up** | Gyanith-23, NIT Karaikal |
-
-</div>
-
-
-
-<div align="center">
-
-### 📡 ~/etc/network.cfg
-
-[![Email](https://img.shields.io/badge/Email-gokulkumarpy%40gmail.com-00fff9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:gokulkumarpy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kgokulkumar-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://linkedin.com/in/kgokulkumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-GokulDG-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)](https://github.com/GokulDG)
-
-![Profile Views](https://komarev.com/ghpvc/?username=GokulDG&color=0d0221&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00fff9,50:7303c0,100:0d0221&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=GokulDG&style=flat-square&color=0b0c0a&label=VISITS" alt="Profile views" />
 
 </div>

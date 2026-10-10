@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52" role="img">
+<style>
+.b{animation:edge 4.8s linear infinite;animation-delay:0.0s}
+@keyframes edge{0%,30%,100%{stroke:#ece9df;stroke-opacity:.2}12%{stroke:#c6ff3d;stroke-opacity:1}}
+.a{animation:nudge 2.4s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(2.5px,-2.5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="198" height="50" rx="25" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".2" stroke-width="1.4" class="b"/>
+<circle cx="27" cy="26" r="3.5" fill="#c6ff3d"/>
+<text x="44" y="30.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.8" fill="#ece9df">EMAIL</text>
+<path class="a" d="M166 31l9-9m-7 0h7v7" fill="none" stroke="#c6ff3d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

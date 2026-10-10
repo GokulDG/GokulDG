@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 262" width="880" height="262" role="img">
+<defs>
+<clipPath id="card"><rect width="880" height="262" rx="14"/></clipPath>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .9 0"/></filter>
+
+</defs>
+<style>
+.d{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}.s{font-family:'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif;font-style:italic}
+.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;letter-spacing:.14em}
+.ink{fill:#ece9df}.ink2{fill:#a9a79c}.ink3{fill:#6f6e66}.lime{fill:#c6ff3d}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes ring{0%{transform:scale(1);opacity:.9}70%,100%{transform:scale(3.4);opacity:0}}
+
+.ping{transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+.flow{animation:flow 1.2s linear infinite;opacity:.55}
+@keyframes flow{to{stroke-dashoffset:-12}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="880" height="262" fill="#0b0c0a"/>
+<line x1="220.0" y1="0" x2="220.0" y2="262" stroke="rgba(236,233,223,0.05)"/><line x1="440.0" y1="0" x2="440.0" y2="262" stroke="rgba(236,233,223,0.05)"/><line x1="660.0" y1="0" x2="660.0" y2="262" stroke="rgba(236,233,223,0.05)"/>
+
+<text x="32" y="44" class="m"><tspan class="lime">02</tspan><tspan class="ink3"> — </tspan><tspan class="ink2">WHAT I BUILD</tspan></text><text x="848" y="44" text-anchor="end" class="m ink3">REAL-TIME · EVENT-DRIVEN · AUDITABLE</text>
+<text x="32" y="96" class="s ink" font-size="27">Operational software: from a sensor in the field <tspan class="lime">to a person's phone.</tspan></text>
+<line x1="76" y1="156" x2="804" y2="156" stroke="rgba(236,233,223,0.14)" stroke-width="1.4"/><line x1="76" y1="156" x2="804" y2="156" stroke="#c6ff3d" stroke-width="1.4" stroke-dasharray="3 9" class="flow"/><circle cx="76.0" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:0.0s"/><circle cx="76.0" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="76.0" cy="156" r="2" fill="#c6ff3d"/><text x="76.0" y="190" text-anchor="middle" class="m lime" style="font-size:10px">01</text><text x="76.0" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Field</text><text x="76.0" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">MODBUS</text><circle cx="221.6" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:1.2s"/><circle cx="221.6" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="221.6" cy="156" r="2" fill="#c6ff3d"/><text x="221.6" y="190" text-anchor="middle" class="m lime" style="font-size:10px">02</text><text x="221.6" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Ingest</text><text x="221.6" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">MQTT · TLS</text><circle cx="367.2" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:2.4s"/><circle cx="367.2" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="367.2" cy="156" r="2" fill="#c6ff3d"/><text x="367.2" y="190" text-anchor="middle" class="m lime" style="font-size:10px">03</text><text x="367.2" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Cloud</text><text x="367.2" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">AWS</text><circle cx="512.8" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:0.6s"/><circle cx="512.8" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="512.8" cy="156" r="2" fill="#c6ff3d"/><text x="512.8" y="190" text-anchor="middle" class="m lime" style="font-size:10px">04</text><text x="512.8" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Decide</text><text x="512.8" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">RULES</text><circle cx="658.4" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:1.8s"/><circle cx="658.4" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="658.4" cy="156" r="2" fill="#c6ff3d"/><text x="658.4" y="190" text-anchor="middle" class="m lime" style="font-size:10px">05</text><text x="658.4" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Notify</text><text x="658.4" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">TWILIO</text><circle cx="804.0" cy="156" r="6" fill="none" stroke="#c6ff3d" class="ping" style="animation-delay:0.0s"/><circle cx="804.0" cy="156" r="6" fill="#0b0c0a" stroke="#ece9df" stroke-opacity=".5" stroke-width="1.4"/><circle cx="804.0" cy="156" r="2" fill="#c6ff3d"/><text x="804.0" y="190" text-anchor="middle" class="m lime" style="font-size:10px">06</text><text x="804.0" y="214" text-anchor="middle" class="d ink" font-size="17" font-weight="700">Record</text><text x="804.0" y="234" text-anchor="middle" class="m ink3" style="font-size:9.5px">HISTORIAN</text><circle cy="156" r="4.5" fill="#c6ff3d"><animate attributeName="cx" values="76;804" dur="6s" begin="0s" repeatCount="indefinite"/></circle><circle cy="156" r="4.5" fill="#c6ff3d"><animate attributeName="cx" values="76;804" dur="6s" begin="-3s" repeatCount="indefinite"/></circle>
+
+<rect width="880" height="262" filter="url(#grain)" opacity=".07"/>
+</g>
+<rect x=".5" y=".5" width="879" height="261" rx="14" fill="none" stroke="rgba(236,233,223,0.14)"/>
+</svg>
