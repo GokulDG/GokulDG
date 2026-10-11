@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="880" height="500" role="img">
 <defs><clipPath id="card"><rect width="880" height="500" rx="14"/></clipPath><filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .9 0"/></filter>
 <linearGradient id="scan" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0">
-<stop offset="0" stop-color="#f2ebdd"/><stop offset=".38" stop-color="#f2ebdd"/><stop offset=".5" stop-color="#ff5a1f"/><stop offset=".62" stop-color="#f2ebdd"/><stop offset="1" stop-color="#f2ebdd"/>
+<stop offset="0" stop-color="#eeebf8"/><stop offset=".38" stop-color="#eeebf8"/><stop offset=".5" stop-color="#a488ff"/><stop offset=".62" stop-color="#eeebf8"/><stop offset="1" stop-color="#eeebf8"/>
 <animate attributeName="x1" values="-400;1280" dur="5.5s" repeatCount="indefinite"/>
 <animate attributeName="x2" values="0;1680" dur="5.5s" repeatCount="indefinite"/>
 </linearGradient>
 <clipPath id="megaclip"><rect x="0" y="84" width="880" height="128"/></clipPath>
-<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5a1f" stop-opacity="0"/><stop offset="1" stop-color="#ff5a1f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a488ff" stop-opacity="0"/><stop offset="1" stop-color="#a488ff"/></linearGradient>
 <path id="circ" d="M436,432a38,38 0 1,1 76,0a38,38 0 1,1 -76,0"/>
 </defs>
 <style>
 .d{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}.s{font-family:'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif;font-style:italic}
 .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;letter-spacing:.14em}
-.ink{fill:#f2ebdd}.ink2{fill:#b3aa99}.ink3{fill:#766e61}.acc{fill:#ff5a1f}
+.ink{fill:#eeebf8}.ink2{fill:#a9a4bd}.ink3{fill:#6c6782}.acc{fill:#a488ff}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
 @keyframes ring{0%{transform:scale(1);opacity:.9}70%,100%{transform:scale(3.4);opacity:0}}
 
@@ -28,7 +28,7 @@
 @keyframes spread{from{transform:translateY(0)}to{transform:translateY(var(--d))}}
 .edge{animation:pulse 3.2s linear infinite}
 .e1{animation-delay:.5s}.e2{animation-delay:1s}.e3{animation-delay:1.5s}
-@keyframes pulse{0%,22%,100%{stroke:#f2ebdd;stroke-opacity:.32}8%{stroke:#ff5a1f;stroke-opacity:1}}
+@keyframes pulse{0%,22%,100%{stroke:#eeebf8;stroke-opacity:.32}8%{stroke:#a488ff;stroke-opacity:1}}
 .e0{animation-name:pulse0}
 @keyframes pulse0{0%,100%{stroke-opacity:1}50%{stroke-opacity:.55}}
 .pkt{animation:drop 3.2s linear infinite}
@@ -38,31 +38,31 @@
 .arrow{animation:nudge 2.4s ease-in-out infinite}
 @keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-3px)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<g clip-path="url(#card)"><rect width="880" height="500" fill="#100e0c"/><line x1="220.0" y1="0" x2="220.0" y2="500" stroke="rgba(242,235,221,0.05)"/><line x1="440.0" y1="0" x2="440.0" y2="500" stroke="rgba(242,235,221,0.05)"/><line x1="660.0" y1="0" x2="660.0" y2="500" stroke="rgba(242,235,221,0.05)"/>
+<g clip-path="url(#card)"><rect width="880" height="500" fill="#0b0a13"/><line x1="220.0" y1="0" x2="220.0" y2="500" stroke="rgba(238,235,248,0.05)"/><line x1="440.0" y1="0" x2="440.0" y2="500" stroke="rgba(238,235,248,0.05)"/><line x1="660.0" y1="0" x2="660.0" y2="500" stroke="rgba(238,235,248,0.05)"/>
 
 <text x="32" y="40" class="m ink2"><tspan class="acc">GK</tspan> — GOKULKUMAR K</text>
 <text x="848" y="40" text-anchor="end" class="m ink3">11.94° N  79.81° E · PONDICHERRY, INDIA</text>
-<line x1="32" y1="58" x2="848" y2="58" stroke="rgba(242,235,221,0.14)"/>
+<line x1="32" y1="58" x2="848" y2="58" stroke="rgba(238,235,248,0.14)"/>
 <g clip-path="url(#megaclip)"><text x="32" y="188" textLength="816" lengthAdjust="spacingAndGlyphs" class="mega rise" fill="url(#scan)">GOKULKUMAR</text></g>
-<line x1="32" y1="222" x2="848" y2="222" stroke="rgba(242,235,221,0.14)"/>
+<line x1="32" y1="222" x2="848" y2="222" stroke="rgba(238,235,248,0.14)"/>
 <g class="fade f1"><text x="32" y="262" class="m"><tspan class="acc">01</tspan><tspan class="ink3"> — </tspan><tspan class="ink2">FULL-STACK &amp; BACKEND ENGINEER</tspan></text></g>
 <g class="fade f2"><text class="s ink" font-size="31">
 <tspan x="32" y="316">Backend engineering, product thinking,</tspan>
 <tspan x="32" y="354">and software that holds up</tspan>
 <tspan x="32" y="392" class="acc">at three in the morning.</tspan></text></g>
 <g class="fade f3">
-<circle cx="37" cy="440" r="4" fill="#ff5a1f" class="halo"/><circle cx="37" cy="440" r="4" fill="#ff5a1f" class="dot"/>
+<circle cx="37" cy="440" r="4" fill="#a488ff" class="halo"/><circle cx="37" cy="440" r="4" fill="#a488ff" class="dot"/>
 <text x="52" y="444" class="m ink">OPEN TO BACKEND &amp; FULL-STACK ROLES</text>
 <text x="52" y="466" class="m ink3">NOW · FULLSTACK DEVELOPER, REGERE CONSULTING</text>
 </g>
-<circle cx="474" cy="432" r="51" fill="#100e0c" stroke="rgba(242,235,221,0.14)"/>
+<circle cx="474" cy="432" r="51" fill="#0b0a13" stroke="rgba(238,235,248,0.14)"/>
 <g class="spin"><text class="m ink2" style="font-size:9.5px;letter-spacing:0"><textPath href="#circ" textLength="235" lengthAdjust="spacing">OPEN TO WORK · BACKEND · CLOUD ·</textPath></text></g>
-<circle cx="474" cy="432" r="25" fill="#ff5a1f"/>
-<path class="arrow" d="M467 439l14-14m-11 0h11v11" fill="none" stroke="#100e0c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="552" y1="284" x2="552" y2="436" stroke="rgba(242,235,221,0.14)" stroke-dasharray="2 4"/>
-<line x1="776" y1="284" x2="776" y2="436" stroke="rgba(242,235,221,0.14)" stroke-dasharray="2 4"/>
-<g class="ly ly3"><polygon points="664,380 776,420 664,460 552,420" fill="#191613" fill-opacity=".94" stroke="#f2ebdd" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e3"/><polygon points="664,400.0 720.0,420 664,440.0 608.0,420" fill="none" stroke="#f2ebdd" stroke-opacity="0.12"/><line x1="776" y1="420" x2="790" y2="420" stroke="rgba(242,235,221,0.14)"/><text x="796" y="423.5" class="m ink3" style="font-size:9.5px">INFRA</text></g><g class="ly ly2"><polygon points="664,340 776,380 664,420 552,380" fill="#191613" fill-opacity=".94" stroke="#f2ebdd" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e2"/><polygon points="664,360.0 720.0,380 664,400.0 608.0,380" fill="none" stroke="#f2ebdd" stroke-opacity="0.12"/><line x1="776" y1="380" x2="790" y2="380" stroke="rgba(242,235,221,0.14)"/><text x="796" y="383.5" class="m ink3" style="font-size:9.5px">DATA</text></g><g class="ly ly1"><polygon points="664,300 776,340 664,380 552,340" fill="#191613" fill-opacity=".94" stroke="#f2ebdd" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e1"/><polygon points="664,320.0 720.0,340 664,360.0 608.0,340" fill="none" stroke="#f2ebdd" stroke-opacity="0.12"/><line x1="776" y1="340" x2="790" y2="340" stroke="rgba(242,235,221,0.14)"/><text x="796" y="343.5" class="m ink3" style="font-size:9.5px">API</text></g><g class="ly ly0"><polygon points="664,260 776,300 664,340 552,300" fill="#191613" fill-opacity=".94" stroke="#ff5a1f" stroke-opacity="1" stroke-width="1.4" stroke-linejoin="round" class="edge e0"/><polygon points="664,280.0 720.0,300 664,320.0 608.0,300" fill="none" stroke="#ff5a1f" stroke-opacity="0.5"/><line x1="776" y1="300" x2="790" y2="300" stroke="rgba(242,235,221,0.14)"/><text x="796" y="303.5" class="m acc" style="font-size:9.5px">INTERFACE</text></g>
+<circle cx="474" cy="432" r="25" fill="#a488ff"/>
+<path class="arrow" d="M467 439l14-14m-11 0h11v11" fill="none" stroke="#0b0a13" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="552" y1="284" x2="552" y2="436" stroke="rgba(238,235,248,0.14)" stroke-dasharray="2 4"/>
+<line x1="776" y1="284" x2="776" y2="436" stroke="rgba(238,235,248,0.14)" stroke-dasharray="2 4"/>
+<g class="ly ly3"><polygon points="664,380 776,420 664,460 552,420" fill="#15131f" fill-opacity=".94" stroke="#eeebf8" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e3"/><polygon points="664,400.0 720.0,420 664,440.0 608.0,420" fill="none" stroke="#eeebf8" stroke-opacity="0.12"/><line x1="776" y1="420" x2="790" y2="420" stroke="rgba(238,235,248,0.14)"/><text x="796" y="423.5" class="m ink3" style="font-size:9.5px">INFRA</text></g><g class="ly ly2"><polygon points="664,340 776,380 664,420 552,380" fill="#15131f" fill-opacity=".94" stroke="#eeebf8" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e2"/><polygon points="664,360.0 720.0,380 664,400.0 608.0,380" fill="none" stroke="#eeebf8" stroke-opacity="0.12"/><line x1="776" y1="380" x2="790" y2="380" stroke="rgba(238,235,248,0.14)"/><text x="796" y="383.5" class="m ink3" style="font-size:9.5px">DATA</text></g><g class="ly ly1"><polygon points="664,300 776,340 664,380 552,340" fill="#15131f" fill-opacity=".94" stroke="#eeebf8" stroke-opacity="0.32" stroke-width="1.4" stroke-linejoin="round" class="edge e1"/><polygon points="664,320.0 720.0,340 664,360.0 608.0,340" fill="none" stroke="#eeebf8" stroke-opacity="0.12"/><line x1="776" y1="340" x2="790" y2="340" stroke="rgba(238,235,248,0.14)"/><text x="796" y="343.5" class="m ink3" style="font-size:9.5px">API</text></g><g class="ly ly0"><polygon points="664,260 776,300 664,340 552,300" fill="#15131f" fill-opacity=".94" stroke="#a488ff" stroke-opacity="1" stroke-width="1.4" stroke-linejoin="round" class="edge e0"/><polygon points="664,280.0 720.0,300 664,320.0 608.0,300" fill="none" stroke="#a488ff" stroke-opacity="0.5"/><line x1="776" y1="300" x2="790" y2="300" stroke="rgba(238,235,248,0.14)"/><text x="796" y="303.5" class="m acc" style="font-size:9.5px">INTERFACE</text></g>
 <rect x="663" y="236" width="2" height="26" fill="url(#beam)" class="pkt"/>
 
-<rect width="880" height="500" filter="url(#grain)" opacity=".07"/></g><rect x=".5" y=".5" width="879" height="499" rx="14" fill="none" stroke="rgba(242,235,221,0.14)"/>
+<rect width="880" height="500" filter="url(#grain)" opacity=".07"/></g><rect x=".5" y=".5" width="879" height="499" rx="14" fill="none" stroke="rgba(238,235,248,0.14)"/>
 </svg>
