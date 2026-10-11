@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Gokulkumar K — Full-Stack & Backend Engineer, Pondicherry, India. Backend engineering, product thinking, and software that holds up at three in the morning. Open to backend and full-stack roles." />
+<img src="./assets/hero.svg" width="100%" alt="Gokulkumar K — Full-Stack & Backend Engineer, Pondicherry, India. Available for backend and full-stack roles. Now at Regere Consulting. Focus: backend, cloud, IIoT." />
 
 <br/><br/>
 
-<img src="./assets/signal.svg" width="100%" alt="What I build: operational software, from a sensor in the field to a person's phone. Field (Modbus), Ingest (MQTT over TLS), Cloud (AWS), Decide (rules), Notify (Twilio), Record (historian)." />
+<img src="./assets/signal.svg" width="100%" alt="What I build: from a sensor in the field to a person's phone. Field (Modbus), Ingest (MQTT over TLS), Cloud (AWS), Decide (rules), Notify (Twilio), Record (historian)." />
 
 <br/><br/>
 
@@ -16,26 +16,26 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b0c0a&text_color=ece9df&icon_color=c6ff3d&ring_color=c6ff3d&border_color=262722&border_radius=14" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&langs_count=8&bg_color=0b0c0a&title_color=c6ff3d&text_color=ece9df&border_color=262722&border_radius=14" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=070816&text_color=b4b6d9&icon_color=2ee6c5&ring_color=ff4fa3&border_color=2a2d55&border_radius=14" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&langs_count=8&bg_color=070816&title_color=8b5cff&text_color=b4b6d9&border_color=2a2d55&border_radius=14" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=GokulDG&background=0B0C0A&border=262722&ring=C6FF3D&fire=C6FF3D&currStreakLabel=C6FF3D&sideLabels=A9A79C&dates=6F6E66&currStreakNum=ECE9DF&sideNums=ECE9DF&stroke=262722&border_radius=14" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=GokulDG&background=070816&border=2A2D55&ring=8B5CFF&fire=FF4FA3&currStreakLabel=2EE6C5&sideLabels=B4B6D9&dates=6D7099&currStreakNum=F1F0FF&sideNums=F1F0FF&stroke=2A2D55&border_radius=14" alt="Contribution streak" />
 
-<img width="100%" src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/snake-lime.svg" alt="Contribution grid snake" />
-
-<br/><br/>
-
-<img src="./assets/contact.svg" width="100%" alt="Contact. Let's build something useful. I'm always interested in building useful products, solving engineering challenges, and working with people who care about quality." />
+<img width="100%" src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/snake-aurora.svg" alt="Contribution grid snake" />
 
 <br/><br/>
 
-<a href="mailto:gokulkumarpy@gmail.com"><img src="./assets/btn-email.svg" width="200" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/kgokulkumar/"><img src="./assets/btn-linkedin.svg" width="200" alt="LinkedIn" /></a>
-<a href="https://github.com/GokulDG"><img src="./assets/btn-github.svg" width="200" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/gokulkumarpy/"><img src="./assets/btn-leetcode.svg" width="200" alt="LeetCode" /></a>
+<img src="./assets/contact.svg" width="100%" alt="Contact. Let's build something people actually use. Useful products, hard engineering problems, and people who care about quality." />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GokulDG&style=flat-square&color=0b0c0a&label=VISITS" alt="Profile views" />
+<a href="mailto:gokulkumarpy@gmail.com"><img src="./assets/btn-email.svg" width="190" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kgokulkumar/"><img src="./assets/btn-linkedin.svg" width="190" alt="LinkedIn" /></a>
+<a href="https://github.com/GokulDG"><img src="./assets/btn-github.svg" width="190" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/gokulkumarpy/"><img src="./assets/btn-leetcode.svg" width="190" alt="LeetCode" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GokulDG&style=flat-square&color=8b5cff&label=VISITS" alt="Profile views" />
 
 </div>
