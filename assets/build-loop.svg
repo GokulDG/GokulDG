@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" role="img">
+<defs><clipPath id="card"><rect width="880" height="340" rx="14"/></clipPath><filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .9 0"/></filter></defs>
+<style>
+.d{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}.s{font-family:'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif;font-style:italic}
+.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;letter-spacing:.14em}
+.ink{fill:#f2ebdd}.ink2{fill:#b3aa99}.ink3{fill:#766e61}.acc{fill:#ff5a1f}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes ring{0%{transform:scale(1);opacity:.9}70%,100%{transform:scale(3.4);opacity:0}}
+
+.arc{animation:arc 9.0s linear infinite}
+@keyframes arc{from{stroke-dashoffset:527.8}to{stroke-dashoffset:0}}
+.arm{transform-origin:150px 214px;animation:arm 9.0s linear infinite}
+@keyframes arm{to{transform:rotate(360deg)}}
+.nd{fill:#100e0c;stroke:#766e61;stroke-width:1.4;animation:nd 9.0s linear infinite}
+@keyframes nd{0%,16.67%{fill:#ff5a1f;stroke:#ff5a1f}17.17%,100%{fill:#100e0c;stroke:#766e61}}
+.num{fill:#f2ebdd;opacity:0;animation:num 9.0s linear infinite}
+@keyframes num{0%,15.67%{opacity:1}16.67%,100%{opacity:0}}
+.st .bar{fill:#766e61;opacity:.4;animation:sb 9.0s linear infinite;animation-delay:inherit}
+.st .no{fill:#766e61;animation:sn 9.0s linear infinite;animation-delay:inherit}
+.st .ti{fill:#b3aa99;animation:sti 9.0s linear infinite;animation-delay:inherit}
+@keyframes sb{0%,16.67%{fill:#ff5a1f;opacity:1}17.17%,100%{fill:#766e61;opacity:.4}}
+@keyframes sn{0%,16.67%{fill:#ff5a1f}17.17%,100%{fill:#766e61}}
+@keyframes sti{0%,16.67%{fill:#f2ebdd}17.17%,100%{fill:#b3aa99}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)"><rect width="880" height="340" fill="#100e0c"/><line x1="220.0" y1="0" x2="220.0" y2="340" stroke="rgba(242,235,221,0.05)"/><line x1="440.0" y1="0" x2="440.0" y2="340" stroke="rgba(242,235,221,0.05)"/><line x1="660.0" y1="0" x2="660.0" y2="340" stroke="rgba(242,235,221,0.05)"/>
+
+<text x="32" y="44" class="m"><tspan class="acc">04</tspan><tspan class="ink3"> — </tspan><tspan class="ink2">HOW I WORK</tspan></text><text x="848" y="44" text-anchor="end" class="m ink3">SIX STEPS · ONE LOOP</text>
+<text x="32" y="96" class="s ink" font-size="27">Build the smallest reliable thing. <tspan class="acc">Then go round again.</tspan></text>
+<circle cx="150" cy="214" r="84" fill="none" stroke="rgba(242,235,221,0.14)" stroke-width="1.4"/><circle cx="150" cy="214" r="62" fill="none" stroke="rgba(242,235,221,0.05)" stroke-dasharray="2 5"/><circle cx="150" cy="214" r="84" fill="none" stroke="#ff5a1f" stroke-width="2" stroke-dasharray="527.8" transform="rotate(-90 150 214)" class="arc"/><circle cx="150.0" cy="130.0" r="7" class="nd" style="animation-delay:-9.0s"/><circle cx="222.7" cy="172.0" r="7" class="nd" style="animation-delay:-7.5s"/><circle cx="222.7" cy="256.0" r="7" class="nd" style="animation-delay:-6.0s"/><circle cx="150.0" cy="298.0" r="7" class="nd" style="animation-delay:-4.5s"/><circle cx="77.3" cy="256.0" r="7" class="nd" style="animation-delay:-3.0s"/><circle cx="77.3" cy="172.0" r="7" class="nd" style="animation-delay:-1.5s"/>
+<g class="arm"><line x1="150" y1="156" x2="150" y2="130" stroke="#ff5a1f" stroke-width="1.4"/><circle cx="150" cy="130" r="4" fill="#ff5a1f"/></g>
+<text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-9.0s">01</text><text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-7.5s">02</text><text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-6.0s">03</text><text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-4.5s">04</text><text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-3.0s">05</text><text x="150" y="231" text-anchor="middle" class="s num" font-size="52" style="animation-delay:-1.5s">06</text>
+<g class="st" style="animation-delay:-9.0s"><rect x="330" y="126" width="2" height="44" class="bar"/><text x="346" y="138" class="m no" style="font-size:9.5px">01</text><text x="346" y="158" class="d ti" font-size="16.5" font-weight="700">Understand the problem</text><text x="346" y="176" class="d ink3" font-size="12">Write down what done means first.</text></g><g class="st" style="animation-delay:-7.5s"><rect x="330" y="186" width="2" height="44" class="bar"/><text x="346" y="198" class="m no" style="font-size:9.5px">02</text><text x="346" y="218" class="d ti" font-size="16.5" font-weight="700">Design the architecture</text><text x="346" y="236" class="d ink3" font-size="12">Data model, then the boundaries.</text></g><g class="st" style="animation-delay:-6.0s"><rect x="330" y="246" width="2" height="44" class="bar"/><text x="346" y="258" class="m no" style="font-size:9.5px">03</text><text x="346" y="278" class="d ti" font-size="16.5" font-weight="700">Build the smallest thing</text><text x="346" y="296" class="d ink3" font-size="12">One path, end to end, every time.</text></g><g class="st" style="animation-delay:-4.5s"><rect x="610" y="126" width="2" height="44" class="bar"/><text x="626" y="138" class="m no" style="font-size:9.5px">04</text><text x="626" y="158" class="d ti" font-size="16.5" font-weight="700">Measure</text><text x="626" y="176" class="d ink3" font-size="12">Find the slow query with numbers.</text></g><g class="st" style="animation-delay:-3.0s"><rect x="610" y="186" width="2" height="44" class="bar"/><text x="626" y="198" class="m no" style="font-size:9.5px">05</text><text x="626" y="218" class="d ti" font-size="16.5" font-weight="700">Test the failures</text><text x="626" y="236" class="d ink3" font-size="12">Timeouts, retries, bad input.</text></g><g class="st" style="animation-delay:-1.5s"><rect x="610" y="246" width="2" height="44" class="bar"/><text x="626" y="258" class="m no" style="font-size:9.5px">06</text><text x="626" y="278" class="d ti" font-size="16.5" font-weight="700">Deploy and improve</text><text x="626" y="296" class="d ink3" font-size="12">Ship it observable. Read the logs.</text></g>
+
+<rect width="880" height="340" filter="url(#grain)" opacity=".07"/></g><rect x=".5" y=".5" width="879" height="339" rx="14" fill="none" stroke="rgba(242,235,221,0.14)"/>
+</svg>

@@ -1,41 +1,45 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Gokulkumar K — Full-Stack & Backend Engineer, Pondicherry, India. Available for backend and full-stack roles. Now at Regere Consulting. Focus: backend, cloud, IIoT." />
+<img src="./assets/masthead.svg" width="100%" alt="Gokulkumar K, full-stack and backend engineer in Pondicherry, India. Backend engineering, product thinking, and software that holds up at three in the morning. Open to backend and full-stack roles. Now: FullStack Developer at Regere Consulting." />
+
+<img src="./assets/ticker-focus.svg" width="100%" alt="Backend engineering / Workflow automation / Real-time monitoring / Cloud infrastructure / Product thinking" />
 
 <br/><br/>
 
-<img src="./assets/signal.svg" width="100%" alt="What I build: from a sensor in the field to a person's phone. Field (Modbus), Ingest (MQTT over TLS), Cloud (AWS), Decide (rules), Notify (Twilio), Record (historian)." />
+<img src="./assets/signal-path.svg" width="100%" alt="What I build: operational software, from a sensor in the field to a person's phone. Field (Modbus), Ingest (MQTT over TLS), Cloud (AWS), Decide (rules), Notify (Twilio), Record (historian)." />
 
 <br/><br/>
 
-<img src="./assets/toolkit.svg" width="100%" alt="Toolkit. Backend: Node.js, JavaScript, REST APIs, Python, Flask, Java, Spring Boot. Frontend: React, Next.js, TypeScript, Tailwind CSS. Data: PostgreSQL, MySQL, MongoDB, query optimisation. Infrastructure: AWS, MQTT, Twilio, Docker, Terraform, Linux and shell, GitHub Actions." />
+<img src="./assets/toolkit-index.svg" width="100%" alt="Toolkit. Backend: Node.js, JavaScript, REST APIs, Python, Flask, Java, Spring Boot. Frontend: React, Next.js, TypeScript, Tailwind CSS. Data: PostgreSQL, MySQL, MongoDB, query optimisation. Infrastructure: AWS, MQTT, Twilio, Docker, Terraform, Linux and shell, GitHub Actions." />
+
+<img src="./assets/ticker-stack.svg" width="100%" alt="Node.js / React / PostgreSQL / AWS / MQTT / Python / TypeScript / Docker" />
 
 <br/><br/>
 
-<img src="./assets/telemetry.svg" width="100%" alt="Telemetry, live from GitHub. If I can't observe it in production, it isn't finished." />
+<img src="./assets/build-loop.svg" width="100%" alt="How I work, six steps in one loop: understand the problem, design the architecture, build the smallest reliable thing, measure, test the failures, deploy and improve. Then go round again." />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=070816&text_color=b4b6d9&icon_color=2ee6c5&ring_color=ff4fa3&border_color=2a2d55&border_radius=14" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&langs_count=8&bg_color=070816&title_color=8b5cff&text_color=b4b6d9&border_color=2a2d55&border_radius=14" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=GokulDG&background=070816&border=2A2D55&ring=8B5CFF&fire=FF4FA3&currStreakLabel=2EE6C5&sideLabels=B4B6D9&dates=6D7099&currStreakNum=F1F0FF&sideNums=F1F0FF&stroke=2A2D55&border_radius=14" alt="Contribution streak" />
-
-<img width="100%" src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/snake-aurora.svg" alt="Contribution grid snake" />
+<img src="./assets/telemetry-bar.svg" width="100%" alt="Telemetry, live from GitHub" />
 
 <br/><br/>
 
-<img src="./assets/contact.svg" width="100%" alt="Contact. Let's build something people actually use. Useful products, hard engineering problems, and people who care about quality." />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulDG&show_icons=true&count_private=true&hide_title=true&bg_color=100e0c&text_color=b3aa99&icon_color=ff5a1f&ring_color=ff5a1f&border_color=2b2621&border_radius=14" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulDG&layout=compact&langs_count=8&bg_color=100e0c&title_color=f2ebdd&text_color=b3aa99&border_color=2b2621&border_radius=14" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=GokulDG&background=100E0C&border=2B2621&ring=FF5A1F&fire=FF5A1F&currStreakLabel=FF5A1F&sideLabels=B3AA99&dates=766E61&currStreakNum=F2EBDD&sideNums=F2EBDD&stroke=2B2621&border_radius=14" alt="Contribution streak" />
+
+<img width="100%" src="https://raw.githubusercontent.com/GokulDG/GokulDG/output/snake-ember.svg" alt="Contribution grid snake" />
 
 <br/><br/>
 
-<a href="mailto:gokulkumarpy@gmail.com"><img src="./assets/btn-email.svg" width="190" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/kgokulkumar/"><img src="./assets/btn-linkedin.svg" width="190" alt="LinkedIn" /></a>
-<a href="https://github.com/GokulDG"><img src="./assets/btn-github.svg" width="190" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/gokulkumarpy/"><img src="./assets/btn-leetcode.svg" width="190" alt="LeetCode" /></a>
+<img src="./assets/contact-band.svg" width="100%" alt="Contact. Let's build something useful. I'm always interested in building useful products, solving engineering challenges, and working with people who care about quality. Email: gokulkumarpy@gmail.com" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GokulDG&style=flat-square&color=8b5cff&label=VISITS" alt="Profile views" />
+<a href="mailto:gokulkumarpy@gmail.com"><img src="./assets/go-email.svg" width="190" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kgokulkumar/"><img src="./assets/go-linkedin.svg" width="190" alt="LinkedIn" /></a>
+<a href="https://github.com/GokulDG"><img src="./assets/go-github.svg" width="190" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/gokulkumarpy/"><img src="./assets/go-leetcode.svg" width="190" alt="LeetCode" /></a>
 
 </div>
